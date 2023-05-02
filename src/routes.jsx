@@ -33,8 +33,8 @@ export const routes = [
     element: <SignUp />,
   },
   {
-    icon: DocumentTextIcon,
-    name: "Docs",
+    icon: BlogsTextIcon,
+    name: "Blogs",
     href: "https://www.material-tailwind.com/docs/react/installation",
     target: "_blank",
     element: "",
